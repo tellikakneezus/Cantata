@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AwtControlDemo()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ prepareGUI()
+comment3.params=windowEvent
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=
+comment4.target=void\ showChoiceDemo()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6
